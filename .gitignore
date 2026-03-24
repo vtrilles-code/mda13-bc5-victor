@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv
+.venv-1
+__pycache__
+.DS_Store
+streaming_history.json
